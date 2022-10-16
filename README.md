@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sbb02
-- 👀 I’m interested in - Bettering already made apps
+- 👀 I’m interested in - Adding new features to apps
 - 🌱 I’m currently learning - Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on - Java/Python Projects
 - 📫 How to reach me - https://www.linkedin.com/in/sohum-berdia/
