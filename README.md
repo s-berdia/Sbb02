@@ -24,10 +24,11 @@ hi, i'm [Sohum Berdia](https://sites.google.com/view/sohumb/home)
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<br>
 <img align="right" alt="GIF" src="https://github.com/Sbb02/Sbb02/blob/main/data/code-coding.gif" width="300" height="200" />
 <!--END_SECTION:waka-->
 
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sbb02&show_icons=true&theme=gotham" alt="Sbb02" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sbb02&show_icons=true&theme=gotham" alt="Sbb02" />
