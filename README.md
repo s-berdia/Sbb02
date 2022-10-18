@@ -1,4 +1,4 @@
-### Hey, You! Youre Finally Awake!
+### Hey, You! Youre Finally Here!
 <a href="https://www.linkedin.com/in/sohum-berdia/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -16,26 +16,20 @@
 
 hi, i'm [Sohum Berdia](https://sites.google.com/view/sohumb/home)
 
-
-
-
-
-
-
-
-  <img align="right" alt="GIF" src="https://github.com/Sbb02/Sbb02/blob/main/data/code-coding.gif" width="300" height="200" />
+<br><br><br><br><br><br><br>
+<img align="right" alt="GIF" src="https://github.com/Sbb02/Sbb02/blob/main/data/code-coding.gif" width="300" height="200" />
   
 
 **languages and tools:**  
 
-<code><img height="20" src="https://github.com/Sbb02/Sbb02/blob/main/data/image_2022-10-18_010441367.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="30" src="https://github.com/Sbb02/Sbb02/blob/main/data/image_2022-10-18_010441367.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 <!--END_SECTION:waka-->
 
 
-📈 my github stats
+📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sbb02&show_icons=true&theme=gotham" alt="Sbb02" />
