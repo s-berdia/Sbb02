@@ -1,4 +1,4 @@
-### Oh, hello there! 
+### Hey, You! Youre Finally Awake!
 <a href="https://www.linkedin.com/in/sohum-berdia/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
@@ -15,7 +15,7 @@
 <br />
 
 hi, i'm [Sohum Berdia](https://sites.google.com/view/sohumb/home)
-  <img align="right" alt="GIF" src="https://github.com/Sbb02/Sbb02/blob/main/data/code-coding.gif" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/Sbb02/Sbb02/blob/main/data/code-coding.gif" width="300" height="200" />
   
 
 **languages and tools:**  
