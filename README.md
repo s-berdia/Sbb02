@@ -15,6 +15,8 @@
 <br />
 
 hi, i'm [Sohum Berdia](https://sites.google.com/view/sohumb/home)
+<br />
+<br />
   <img align="right" alt="GIF" src="https://github.com/Sbb02/Sbb02/blob/main/data/code-coding.gif" width="300" height="200" />
   
 
