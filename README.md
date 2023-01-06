@@ -29,4 +29,5 @@ hi, i'm [Sohum Berdia](https://sites.google.com/view/sohumb/home)
 <!--END_SECTION:waka-->
 
 !My GitHub Stats!
+</a>
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sbb02&theme=nightowl)
