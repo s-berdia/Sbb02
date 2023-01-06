@@ -14,7 +14,7 @@
 
 <br />
 
-hi, i'm [Sohum Berdia](https://sites.google.com/view/sohumb/home)
+Hi, i'm [Sohum Berdia](https://sites.google.com/view/sohumb/home)
   
 
 **languages and tools:**  
