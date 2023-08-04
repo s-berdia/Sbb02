@@ -15,7 +15,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.paypal.me/sbbsells"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/sohum-berdia/"><img width="32px" alt="LinkedIn" title="Free gifts for you" src="https://imgur.com/OQUXwNp.png"/></a>
+  <a href="https://www.linkedin.com/in/sohum-berdia/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Sbb02/Sbb02/blob/Sbb02-patch-1/data/images/linkedin-6-16.png"/></a>
 </p>
 
 My Website = https://sites.google.com/view/sohumb/home
