@@ -7,15 +7,15 @@
 <br />
 
 <p align="center">
-  <a href="https://www.youtube.com/@learnill"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  <a href="https://www.youtube.com/@learnill"><img width="32px" alt="Youtube" title="Youtube" src="https://github.com/Sbb02/Sbb02/blob/Sbb02-patch-1/data/images/youtube.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://devpost.com/ssberdia"><img width="32px" alt="DevPost" title="ssberdia DevPost" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://devpost.com/ssberdia"><img width="32px" alt="DevPost" title="ssberdia DevPost" src="https://github.com/Sbb02/Sbb02/blob/Sbb02-patch-1/data/images/groupme.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.paypal.me/sbbsells"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/sohum-berdia/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Sbb02/Sbb02/blob/Sbb02-patch-1/data/images/linkedin-6-16.png"/></a>
+  <a href="https://www.linkedin.com/in/sohum-berdia/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github.com/Sbb02/Sbb02/blob/Sbb02-patch-1/data/images/linkedin.png"/></a>
 </p>
 
 My Website = https://sites.google.com/view/sohumb/home
