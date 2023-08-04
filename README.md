@@ -1,20 +1,24 @@
-### Hey, You! Youre Finally Here!
-<a href="https://www.linkedin.com/in/sohum-berdia/">
-  <img align="left" alt="Sohum's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/soberat10/">
-  <img align="left" alt="Sohum's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
-</a>
-<a href="https://discord.com/users/536924461635469327">
-  <img align="left" alt="Sohum's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<img align="right" alt="GIF" src="https://github.com/Sbb02/Sbb02/blob/main/data/hey-you-youre-finally-awake-skyrim.gif" width="300" height="200" />
-
-![](https://visitor-badge.glitch.me/badge?page_id=Sbb02.Sbb02)
-
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oswald&size=30&duration=3000&pause=500&color=17A816&center=true&vCenter=true&repeat=false&width=435&lines=THIS+IS+SOHUM+BERDIA" alt="Typing SVG" /></a>
+</p>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Handjet&size=30&duration=4000&pause=500&center=true&vCenter=true&width=435&lines=Computer+Science+Undergraduate%2C;Research+Assistant+at+AI+Lab%2C;%26+Technical+Support+Professional;at+Arizona+State+University" alt="Typing SVG" /></a>
+</p>
 <br />
 
-Hi, i'm [Sohum Berdia](https://sites.google.com/view/sohumb/home)
+<p align="center">
+  <a href="https://www.youtube.com/@learnill"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://devpost.com/ssberdia"><img width="32px" alt="DevPost" title="ssberdia DevPost" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.paypal.me/sbbsells"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/sohum-berdia/"><img width="32px" alt="LinkedIn" title="Free gifts for you" src="https://imgur.com/OQUXwNp.png"/></a>
+</p>
+
+My Website = https://sites.google.com/view/sohumb/home
   
 
 **languages and tools:**  
